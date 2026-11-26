@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="IdempotentHandler/IdempotentHandler.csproj" />
+  <Project Path="IdempotentHandler.Tests/IdempotentHandler.Tests.csproj" />
+</Solution>
